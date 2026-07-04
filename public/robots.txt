@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /bookings
+Disallow: /checkout
+Disallow: /favorites
+Disallow: /notifications
+Disallow: /profile
+Disallow: /squad-fill
+Disallow: /owner/
+Disallow: /admin/
